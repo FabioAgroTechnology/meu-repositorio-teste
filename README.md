@@ -1,4 +1,4 @@
-# Meu Repositório de estudos - Git e GitHub
+## Meu Repositório de estudos - Git e GitHub
 
 Aqui está um guia básico com os comandos e suas funções para iniciantes e aprendizes sobre o GitHub:
 
